@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Halil
-- 👀 I’m interested in Deep Learning/RNN,CNN,NLP,Reinforcement Learning and Computer Vision
+- 👀 I’m interested in Deep Learning/Reinforcement Learning, RNN, NLP and CNN, Computer Vision.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on make the world a better place.
 
